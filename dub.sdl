@@ -4,4 +4,6 @@ authors "deviator"
 copyright "Copyright © 2019, deviator"
 license "MIT"
 
+targetType "library"
+
 dependency "ssll" path="source/ssll"
